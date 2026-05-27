@@ -18,7 +18,7 @@ class StudentsTableSeeder extends Seeder
     {
         DB::table('students')->delete();
         $students = new Student();
-        $students->name = ['ar' => 'محمد شعبان', 'en' => 'mohamed shaban'];
+        $students->name = ['ar' => 'Nguyễn Minh Anh', 'en' => 'Nguyen Minh Anh'];
         $students->email = 'Ahmed_Ibrahim@yahoo.com';
         $students->password = Hash::make('12345678');
         $students->gender_id = 1;

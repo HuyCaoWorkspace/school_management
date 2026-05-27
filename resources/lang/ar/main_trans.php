@@ -38,7 +38,7 @@ return [
     'Settings'=>'الاعدادات',
     'Users'=>'المستخدمين',
     'Copyright' => 'جميع الحقوق محفوظة ',
-    'Name_Programer' =>'محمد شعبان'
+    'Name_Programer' =>'HuyCaoWorkspace'
 
 
 ];

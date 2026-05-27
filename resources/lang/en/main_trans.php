@@ -37,7 +37,7 @@ return [
     'Users'=>'Users',
     'list_Graduate'=>'List Graduate',
     'Copyright' => 'Copyright',
-    'Name_Programer' => 'Mohamed Shaban All Rights Reserved',
+    'Name_Programer' => 'HuyCaoWorkspace All Rights Reserved',
     'add_Graduate'=>'Add New Graduate',
 
 
